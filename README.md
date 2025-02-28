@@ -1,6 +1,6 @@
 Example of a self-hosted copy of the FCSM.gov website. 
 
-https://thoppe.github.io/ARCHIVE_fcsm.gov/
+https://thoppe.github.io/FCSM.gov/
 
 The last update to the website was done on 02/25/2025. The website was clone using the command:
 
